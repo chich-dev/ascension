@@ -1,0 +1,2667 @@
+Force: The Falcon				
+Let the gale guide thought and thought fall like an arrow.				
+"Requires: 1 Force.
+Completion grants: 3 Force, 2 Life."				
+Node_0				
+Node_0.0	+5% Air Resistance.			
+Node_0.1	+5% Fire Resistance.			
+Node_0.2	+1% Physical Resistance.			
+Node_1	+0.2 Movement Speed.			
+Node_1.0	+1 Aerotheurge.			
+Node_1.1	+1 Huntsman.			
+Node_1.2	+1 Pyrokinetic.			
+Node_1.3	+1 Scoundrel.			
+Node_1.4	+1 Warfare.			
+Node_2	+6% Damage.			
+Node_2.0	+1 Dual Wielding.			
+Node_2.1	+1 Ranged.			
+Node_2.2	+1 Single-Handed.			
+Node_2.3	+1 Two-Handed.			
+Node_3				
+Node_3.0	Elementalist reactions can be performed when an ally targets an enemy or point you can see with a Geomancer or Pyrokinetic skill. The reaction deals earth or fire damage, respectively.			
+Node_3.1	Predator reactions can be performed, once per round, when an enemy you can see reaches Battered or Harried 7 (or higher).			
+Node_4				
+Node_4.0	Earth and fire Elementalist reactions apply Calcifying and Scorched for 2 turns, respectively.			
+Node_4.1	Predator reactions apply up to Slowed II for 2 turns.			
+Node_4.2	+1 free Elementalist reaction per round.			
+Node_4.3	+1 free Predator reaction per round.			
+Node_4.4	Aerotheurge, Geomancer, Hydrosophist, Necromancer, Pyromancer, and Summoning skills activate Finesse's AP recovery effect, but your basic attacks no longer activate this effect.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Force: The Hatchet				
+Unity of muscle and steel separating life and limb.				
+"Requires: 1 Force.
+Completion grants: 3 Force, 2 Entropy."				
+Node_0				
+Node_0.0	+5% Air Resistance.			
+Node_0.1	+5% Fire Resistance.			
+Node_0.2	+1% Physical Resistance.			
+Node_1	+1% Accuracy.			
+Node_1.0	+1 Aerotheurge.			
+Node_1.1	+1 Huntsman.			
+Node_1.2	+1 Pyrokinetic.			
+Node_1.3	+1 Scoundrel.			
+Node_1.4	+1 Warfare.			
+Node_2	+2% Accuracy.			
+Node_2.0	+1 Dual Wielding.			
+Node_2.1	+1 Ranged.			
+Node_2.2	+1 Single-Handed.			
+Node_2.3	+1 Two-Handed.			
+Node_3				
+Node_3.0	Paucity activates when you reach Battered or Harried 7 and above.			
+Node_3.1	Activate Violent Strike when you reach 0 AP.			
+Node_4				
+Node_4.0	"Paucity reduces the penalty of dodge fatigue by 5%.
+» +2% Dodge Chance."			
+Node_4.1	Violent Strike applies Acid for 2 turns.			
+Node_4.2	Violent Strike applies Bleeding for 2 turns.			
+Node_4.3	Violent Strike applies Suffocating for 2 turns.			
+Node_4.4	Violent Strike applies up to Terrified II for 1 turn.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Force: The Hornet				
+The hive’s relentless fury.				
+"Requires: 1 Force.
+Completion grants: 3 Force, 1 Life."				
+Node_0	+2% Air Resistance.			
+Node_0.0	+1 Finesse.			
+Node_0.1	+1 Power.			
+Node_0.2	+1 Strength.			
+Node_0.3	+1 Wits.			
+Node_1	+1 Initiative.			
+Node_1.0	+4% Accuracy.			
+Node_1.1	+3% Critical Chance.			
+Node_1.2	+7% Damage.			
+Node_1.3	+0.4 Movement Speed.			
+Node_2				
+Node_2.0	When you perform All-In, Flurry, or Sucker Punch, gain the The Pawn talent for 1 turn.			
+Node_2.1	When you perform Staff of Magus, gain the Savage Sortilege talent until your next turn.			
+Node_2.2	+7% Accuracy.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Force: The Serpent				
+Power shaped by subtlety cloaked in cunning.				
+"Requires: 1 Force.
+Completion grants: 3 Force, 1 Entropy."				
+Node_0	+3% Fire Resistance.			
+Node_0.0	+1 Finesse.			
+Node_0.1	+1 Power.			
+Node_0.2	+1 Strength.			
+Node_0.3	+1 Wits.			
+Node_1				
+Node_1.0	+6% Accuracy.			
+Node_1.1	+4% Critical Chance.			
+Node_1.2	+10% Damage.			
+Node_1.3	+0.6 Movement Speed.			
+Node_2				
+Node_2.0	When you perform All-In, Flurry, or Sucker Punch, gain the Inconspicuous talent for 1 turn.			
+Node_2.1	When you perform Staff of Magus, gain the Savage Sortilege talent until your next turn.			
+Node_2.2	"+3% Critical Chance.
+» +5% Damage."			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Life: The Beetle				
+Oneness of weapon and armor.				
+"Requires: 1 Life.
+Completion grants: 1 Force, 3 Life."				
+Node_0	+1 Initiative.			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Finesse.			
+Node_0.2	+1 Memory.			
+Node_0.3	+1 Power.			
+Node_1				
+Node_1.0	+6% Dodge Chance.			
+Node_1.1	+5% Maximum Vitality.			
+Node_1.2	"+5% missing Vitality Regen (50% max).
+» +5% missing Physical Armor Regen (50% max)."			
+Node_1.3	"+0.4 Movement Speed.
+» +5% missing Physical Armor Regen (50% max)."			
+Node_2				
+Node_2.0	"Unlock basic activation of Defiance.
+» Defiance grants a moderate amount of base Physical and Magic Armor (based on character level)."			
+Node_2.1	When you perform Shields Up, apply Taunted for 1 turn to enemies within 3m.			
+Node_2.2	"+1% Increased Battered and Harried Threshold.
+» +2% missing Physical Armor Regen (50% max)."			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Life: The Hind				
+Whose charity humbles the hunter. 				
+"Requires: 1 Life.
+Completion grants: 2 Force, 3 Life."				
+Node_0				
+Node_0.0	+5% Air Resistance.			
+Node_0.1	+5% Fire Resistance.			
+Node_0.2	+5% Poison Resistance.			
+Node_0.3	+5% Water Resistance.			
+Node_1	+1 Initiative.			
+Node_1.0	+1 Huntsman.			
+Node_1.1	+1 Aerotheurge.			
+Node_1.2	+1 Hydrosophist.			
+Node_1.3	+1 Pyrokinetic.			
+Node_2	+0.1 Movement Speed.			
+Node_2.0	+1 Leadership.			
+Node_2.1	+1 Perseverance.			
+Node_2.2	+1 Ranged.			
+Node_2.3	+1 Two-Handed.			
+Node_3				
+Node_3.0	Celestial reactions can be performed on allies you can see with less than 50% Vitality when they spend Source.			
+Node_3.1	Elementalist reactions can be performed when an ally targets an enemy or point you can see with an Aerotheurge or Hydrosophist skill. The reaction deals air or water damage, respectively.			
+Node_4				
+Node_4.0	Once per round per ally, Celestial reactions extend the target's Source Generation by 1 turn.			
+Node_4.1	"Air and water Elementalist reactions apply Charged and Brittle for 2 turns, respectively.
+» +7% Damage."			
+Node_4.2	"+1 free Celestial reaction per round.
+» +3% Maximum Vitality."			
+Node_4.3	"+1 free Elementalist reaction per round.
+» +3% Critical Chance."			
+Node_4.4	"Aerotheurge, Geomancer, Hydrosophist, Necromancer, Pyromancer, and Summoning skills activate Finesse's AP recovery effect, but your basic attacks no longer activate this effect.
+» +2 Finesse."			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Life: The Lizard				
+Scars fall away like shed skin. 				
+"Requires: 1 Life.
+Completion grants: 1 Inertia, 3 Life."				
+Node_0	+2% missing Vitality Regen (50% max).			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Finesse.			
+Node_0.2	+1 Memory.			
+Node_0.3	+1 Power.			
+Node_1	+2.5% missing Vitality Regen (50% max).			
+Node_1.0	+3% Accuracy.			
+Node_1.1	+5% Damage.			
+Node_1.2	+4 Initiative.			
+Node_2				
+Node_2.0	When you perform Staff of Magus, gain the Savage Sortilege talent until your next turn.			
+Node_2.1	Presence grants +2% to elemental resistances per Leadership. If you already have this effect: Presence grants +1% missing Vitality regeneration per Leadership.			
+Node_2.2	"+5% Dodge Chance.
+» +2% missing Vitality Regen (50% max)."			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Life: The Rabbit				
+Fortune magnifies the meek.				
+"Requires: 1 Life.
+Completion grants: 2 Inertia, 3 Life."				
+Node_0				
+Node_0.0	+5% Air Resistance.			
+Node_0.1	+5% Fire Resistance.			
+Node_0.2	+5% Poison Resistance.			
+Node_0.3	+5% Water Resistance.			
+Node_1				
+Node_1.0	+1 Huntsman.			
+Node_1.1	+1 Aerotheurge.			
+Node_1.2	+1 Hydrosophist.			
+Node_1.3	+1 Pyrokinetic.			
+Node_2	+2 Initiative.			
+Node_2.0	+1 Leadership.			
+Node_2.1	+1 Perseverance.			
+Node_2.2	+1 Ranged.			
+Node_2.3	+1 Two-Handed.			
+Node_3				
+Node_3.0	"Unlock basic activation of Prosperity.
+» Prosperity grants +1 Leadership.
+» +1 Constitution."			
+Node_3.1	When reduced to 30% Vitality (+1.5% per Life) or below, activate Purity.			
+Node_4				
+Node_4.0	Prosperity grants +1 duration for Mend Metal, Restoration, and Soothing Cold you apply. These statuses grant +5 to elemental resistances.			
+Node_4.1	Purity aura grants +2.5% Battered and Harried threshold.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Form: The Chalice				
+The cup that runneth over.				
+"Requires: 1 Form.
+Completion grants: 3 Form, 2 Inertia."				
+Node_0				
+Node_0.0	+5% Earth Resistance.			
+Node_0.1	+5% Fire Resistance.			
+Node_0.2	+1% Physical Resistance.			
+Node_0.3	+5% Poison Resistance.			
+Node_1				
+Node_1.0	+1 Geomancer.			
+Node_1.1	+1 Necromancer.			
+Node_1.2	+1 Pyrokinetic.			
+Node_1.3	+1 Summoning.			
+Node_2	+3% Damage.			
+Node_2.0	+1 Dual Wielding.			
+Node_2.1	+1 Leadership.			
+Node_2.2	+1 Retribution.			
+Node_2.3	+1 Single-Handed.			
+Node_3				
+Node_3.0	"Unlock basic activation of Abeyance.
+» +1 Strength."			
+Node_3.1	Learn the Adaptation skill.			
+Node_4				
+Node_4.0	When Abeyance activates, remove all tier I and II statuses from yourself.			
+Node_4.1	Adaptation grants +2% to elemental resistances per stack of Adaptation.			
+Node_4.2	"Aerotheurge, Geomancer, Hydrosophist, Necromancer, Pyromancer, and Summoning skills activate Finesse's AP recovery effect, but your basic attacks no longer activate this effect.
+» +2 Finesse."			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Form: The Key				
+Unlock the mind and the flesh transforms.				
+"Requires: 1 Form.
+Completion grants: 2 Entropy, 3 Form."				
+Node_0				
+Node_0.0	+5% Earth Resistance.			
+Node_0.1	+5% Fire Resistance.			
+Node_0.2	+1% Physical Resistance.			
+Node_0.3	+5% Poison Resistance.			
+Node_0.4	+6% summon Damage.			
+Node_1				
+Node_1.0	+1 Geomancer.			
+Node_1.1	+1 Necromancer.			
+Node_1.2	+1 Pyrokinetic.			
+Node_1.3	+1 Summoning.			
+Node_1.4	+4% summon Elemental Resistances.			
+Node_2	+3% Dodge Chance.			
+Node_2.0	+1 Dual Wielding.			
+Node_2.1	+1 Leadership.			
+Node_2.2	+1 Retribution.			
+Node_2.3	+1 Single-Handed.			
+Node_2.4	+6% summon Accuracy.			
+Node_3				
+Node_3.0	Centurion reactions can be performed when an enemy you can see misses you.			
+Node_3.1	Occultist reactions can be performed when an ally applies tier II or III of Ataxia or Squelched to an enemy you can see.			
+Node_3.2	"+0.5 summon Movement Speed.
+» +5% summon Elemental Resistances."			
+Node_4	+0.2 Movement Speed.			
+Node_4.0	Gain +10% Accuracy and +25% Critical Strike while performing a Centurion reaction.			
+Node_4.1	Occultist reactions also apply Calcifying for 2 turns.			
+Node_4.2	+1 free Centurion reaction per round.			
+Node_4.3	+1 free Occultist reaction per round.			
+Node_4.4	+11% summon Critical Chance.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Form: The Nautilus				
+The coiled citadel contains oceans.				
+"Requires: 1 Form.
+Completion grants: 3 Form, 1 Inertia."				
+Node_0	+4% Water Resistance.			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Memory.			
+Node_0.2	+1 Power.			
+Node_0.3	+1 Strength.			
+Node_0.4	+1 summon Perseverance.			
+Node_1				
+Node_1.0	+5% Dodge Chance.			
+Node_1.1	+9% missing Physical Armor Regen (50% max).			
+Node_1.2	+9% missing Magic Armor Regen (50% max).			
+Node_1.3	+6.5% missing Vitality Regen (50% max).			
+Node_1.4	+5% summon Physical Resistance.			
+Node_2				
+Node_2.0	"Unlock basic activation of Defiance.
+» Defiance grants +6% physical resistance."			
+Node_2.1	When you perform Shields Up, apply Taunted for 1 turn to enemies within 3m.			
+Node_2.2	+7% summon Physical Resistance.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Form: The Silkworm				
+None harm the one clothed in gold.				
+"Requires: 1 Form.
+Completion grants: 1 Entropy, 3 Form."				
+Node_0	+3% Poison Resistance.			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Memory.			
+Node_0.2	+1 Power.			
+Node_0.3	+1 Strength.			
+Node_0.4	+5% summon Damage.			
+Node_1	+2% missing Physical Armor Regen (50% max).			
+Node_1.0	+5% Accuracy.			
+Node_1.1	+8% Damage.			
+Node_1.2	"+3 Initiative.
+» +1 Memory."			
+Node_1.3	+7% summon Accuracy.			
+Node_2				
+Node_2.0	When you perform Staff of Magus, gain the Savage Sortilege talent until your next turn.			
+Node_2.1	Presence grants +2% to elemental resistances per Leadership. If you already have this effect: Presence grants +1% damage per Leadership.			
+Node_2.2	+12% missing Magic Armor Regen (50% max).			
+Node_2.3	+9% missing summon Vitality Regen (50% max).			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Inertia: The Armadillo				
+Savage blows batter the living fortress, meaningless as grains of sand scattered over a mountain.				
+"Requires: 1 Inertia.
+Completion grants: 1 Form, 3 Inertia."				
+Node_0	+1% Dodge Chance.			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Finesse.			
+Node_0.2	+1 Memory.			
+Node_0.3	+1 Strength.			
+Node_1				
+Node_1.0	+6% Dodge Chance.			
+Node_1.1	"+0.5 Movement Speed.
+» +3% Earth Resistance."			
+Node_1.2	"+4% Maximum Physical Armor.
+» +2% Earth Resistance."			
+Node_2				
+Node_2.0	When you perform Shields Up, apply Taunted for 1 turn to enemies within 3m.			
+Node_2.1	"Unlock basic activation of Defiance.
+» Defiance grants +2% Increased Battered and Harried Threshold.
+» +3% Earth Resistance."			
+Node_2.2	"+Physical Armor: Moderate (scales with level).
+» +1% Earth Resistance."			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Inertia: The Auroch				
+Endure until the plow no longer burdens.				
+"Requires: 1 Inertia.
+Completion grants: 3 Inertia, 1 Life."				
+Node_0	+5% Water Resistance.			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Finesse.			
+Node_0.2	+1 Memory.			
+Node_0.3	+1 Strength.			
+Node_1	+1 Constitution.			
+Node_1.0	+3% Dodge Chance.			
+Node_1.1	+0.3 Movement Speed.			
+Node_1.2	"+2% Maximum Physical Armor.
+» +1% Water Resistance."			
+Node_2				
+Node_2.0	When you perform Shields Up, apply Taunted for 1 turn to enemies within 3m.			
+Node_2.1	Presence grants +2% to elemental resistances per Leadership. If you already have this effect: Presence grants +1% physical resistance per Leadership.			
+Node_2.2	+5% Maximum Vitality.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Inertia: The Crab				
+The righteous rebuke conquers where a fool’s wrath cannot.				
+"Requires: 1 Inertia.
+Completion grants: 3 Inertia, 2 Life."				
+Node_0				
+Node_0.0	+5% Air Resistance.			
+Node_0.1	+5% Earth Resistance.			
+Node_0.2	+1% Physical Resistance.			
+Node_0.3	+5% Piercing Resistance.			
+Node_0.4	+5% Water Resistance.			
+Node_1				
+Node_1.0	+1 Aerotheurge.			
+Node_1.1	+1 Geomancer.			
+Node_1.2	+1 Hydrosophist.			
+Node_1.3	+1 Warfare.			
+Node_2	+2 Initiative.			
+Node_2.0	+1 Leadership.			
+Node_2.1	+1 Perseverance.			
+Node_2.2	+1 Retribution.			
+Node_2.3	+1 Single-Handed.			
+Node_3				
+Node_3.0	Learn the Mercy skill, which activates Benevolence on allies around you.			
+Node_3.1	After you have suffered total damage exceeding 70% of your maximum Vitality (-1% per Constitution over 10, minimum of 20%), activate Ward for 1 turn.			
+Node_4				
+Node_4.0	When you remove 4 or more stacks of Battered and or Harried via Benevolence, extend your Source Generation by 1 turn.			
+Node_4.1	Ward grants: +3% Increased Battered and Harried Threshold.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Inertia: The Guardsman				
+Yet the watchers guard.				
+"Requires: 1 Inertia.
+Completion grants: 2 Form, 3 Inertia."				
+Node_0				
+Node_0.0	+5% Air Resistance.			
+Node_0.1	+5% Earth Resistance.			
+Node_0.2	+1% Physical Resistance.			
+Node_0.3	+5% Piercing Resistance.			
+Node_0.4	+5% Water Resistance.			
+Node_1				
+Node_1.0	+1 Aerotheurge.			
+Node_1.1	+1 Geomancer.			
+Node_1.2	+1 Hydrosophist.			
+Node_1.3	+1 Warfare.			
+Node_2				
+Node_2.0	+1 Leadership.			
+Node_2.1	+1 Perseverance.			
+Node_2.2	+1 Retribution.			
+Node_2.3	+1 Single-Handed.			
+Node_2.4	+Physical Armor: Small (scales with level).			
+Node_3				
+Node_3.0	Celestial reactions can be performed on allies you can see when a friendly effect removes Battered or Harried from them.			
+Node_3.1	"Centurion reactions can be performed when an enemy you can see within weapon range (up to 5m away) hits a non-self ally with a basic attack or spell.
+» +1 Strength."			
+Node_4				
+Node_4.0	"Celestial reactions cleanse Acid, Bleeding, Brittle, Poisoned (if not undead), Suffocating from allies.
+» +1% Increased Battered and Harried Threshold."			
+Node_4.1	Centurion reactions apply Taunted for 1 turn.			
+Node_4.2	"+1 free Centurion reaction per round.
+» +1% Physical Resistance.
+» +3% Piercing Resistance."			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Entropy: The Crow				
+The first to arrive at the universal feast finds every dish full.				
+"Requires: 1 Entropy.
+Completion grants: 3 Entropy, 1 Form."				
+Node_0	+3% Air Resistance.			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Memory.			
+Node_0.2	+1 Power.			
+Node_0.3	+1 Wits.			
+Node_0.4	+5% summon Damage.			
+Node_1				
+Node_1.0	+4% Critical Chance.			
+Node_1.1	+10% Damage.			
+Node_1.2	+4% Lifesteal.			
+Node_1.3	+9% summon Accuracy.			
+Node_2				
+Node_2.0	When you perform Staff of Magus, gain the Savage Sortilege talent until your next turn.			
+Node_2.1	+12% invested Power.			
+Node_2.2	+7% summon Lifesteal.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Entropy: The Fly				
+Extinction’s herald reduces all flesh to its most basic function.				
+"Requires: 1 Entropy.
+Completion grants: 3 Entropy, 2 Form."				
+Node_0				
+Node_0.0	+5% Earth Resistance.			
+Node_0.1	+5% Piercing Resistance.			
+Node_0.2	+5% Poison Resistance.			
+Node_0.3	+5% Water Resistance.			
+Node_0.4	+10% summon Vitality restored from Voracity.			
+Node_1				
+Node_1.0	+1 Geomancer.			
+Node_1.1	+1 Hydrosophist.			
+Node_1.2	+1 Necromancer.			
+Node_1.3	+1 Summoning.			
+Node_1.4	+10% summon Damage.			
+Node_2	+4% Magic Armor restored from Voracity.			
+Node_2.0	+1 Dual Wielding.			
+Node_2.1	+1 Perseverance.			
+Node_2.2	+1 Retribution.			
+Node_2.3	+1 Two-Handed.			
+Node_2.4	+6% summon Accuracy.			
+Node_3				
+Node_3.0	For each Source Point you spend in combat, activate Vitality Void.			
+Node_3.1	"Apply Withered for 2 turns when you apply tier II or III of Slowed or Weakened to an enemy.
+» +1 Power."			
+Node_3.2	"+15% summon Vitality restored from Voracity.
+» +8% summon Lifesteal."			
+Node_4				
+Node_4.0	Vitality Void applies up to Terrified II for 1 turn.			
+Node_4.1	"When you critically strike an enemy afflicted with Withered, apply up to Subjugated II for 2 turns.
+» +4% Damage."			
+Node_4.2	"+1 free Occultist reaction per round.
+» +1 Memory."			
+Node_4.3	+11% summon Critical Chance.			
+Node_4.4	"Aerotheurge, Geomancer, Hydrosophist, Necromancer, Pyromancer, and Summoning skills activate Finesse's AP recovery effect, but your basic attacks no longer activate this effect.
+» +1 Finesse."			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Entropy: The Vulture				
+The Baron of Vacuities collects the lost and returns them to his kingdom.				
+"Requires: 1 Entropy.
+Completion grants: 2 Force, 3 Entropy."				
+Node_0	+2% Vitality restored from Voracity.			
+Node_0.0	+5% Earth Resistance.			
+Node_0.1	+5% Piercing Resistance.			
+Node_0.2	+5% Poison Resistance.			
+Node_0.3	+5% Water Resistance.			
+Node_1	+3% Vitality restored from Voracity.			
+Node_1.0	+1 Geomancer.			
+Node_1.1	+1 Hydrosophist.			
+Node_1.2	+1 Necromancer.			
+Node_1.3	+1 Summoning.			
+Node_2	+4% Vitality restored from Voracity.			
+Node_2.0	+1 Dual Wielding.			
+Node_2.1	+1 Perseverance.			
+Node_2.2	+1 Retribution.			
+Node_2.3	+1 Two-Handed.			
+Node_3				
+Node_3.0	Occultist reactions can be performed when an ally applies tier II or III of Subjugated or Terrified to an enemy you can see.			
+Node_3.1	Predator reactions can be performed when an ally perfoms an Attack of Opportunity on an enemy you can see.			
+Node_4				
+Node_4.0	"Occultist reactions also apply up to Weakened II for 2 turns.
+» +1 Memory."			
+Node_4.1	While performing a Predator reaction, gain +1.5% Critical Strike per percent of target's missing Vitality, up to a maximum of +50%.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Entropy: The Wolf				
+Even famine feeds.				
+"Requires: 1 Entropy.
+Completion grants: 1 Force, 3 Entropy."				
+Node_0	+3% Fire Resistance.			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Memory.			
+Node_0.2	+1 Power.			
+Node_0.3	+1 Wits.			
+Node_1				
+Node_1.0	+4% Critical Chance.			
+Node_1.1	+10% Damage.			
+Node_1.2	+4% Lifesteal.			
+Node_2				
+Node_2.0	When you perform All-In, Flurry, or Sucker Punch, gain the The Pawn talent for 1 turn.			
+Node_2.1	When you perform All-In, Flurry, or Sucker Punch, gain the Inconspicuous talent for 1 turn.			
+Node_2.2	"+3% Lifesteal.
+» +6% Vitality restored from Voracity."			
+
+Force: The Arcanist				
+Nameless power waits beyond the stars, like a sword anticipating a worthy hand.				
+"Requires: 5 Force, 1 Life.
+Completion grants: 3 Force."				
+Node_0	+10% Damage.			
+Node_0.0	+1 Finesse.			
+Node_0.1	+1 Power.			
+Node_0.2	+1 Strength.			
+Node_0.3	+1 Wits.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2	+4% Critical Chance.			
+Node_2.0	"+3 Initiative.
+» +0.6 Movement Speed."			
+Node_2.1	+6% Maximum Physical Armor.			
+Node_2.2	+14% missing Physical Armor Regen (50% max).			
+Node_3				
+Node_3.0	Elementalist reactions can be performed when an ally performs a Predator reaction or applies Vulnerable III. The reaction deals fire or earth damage, respectively.			
+Node_3.1	Violent Strike activates when you reach 2 or more stacks of Elementalist.			
+Node_4				
+Node_4.0	Source Infusion 1: if you have 3 stacks of Elementalist or more when you perform your next Elementalist reaction, emulate the effects of Dazing Bolt, Fireball, Impalement, or Winter Blast with air, fire, water, and earth reactions, respectively.			
+Node_4.1	Gain +5% Finesse and Power per stack of Elementalist.			
+Node_4.2	Violent Strike deals an additional +5% damage for every two Entropy, Force, or Life, up to 100%.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Force: The Archer				
+The arrowhead entertains only one line of reasoning.				
+"Requires: 3 Force, 2 Entropy, 1 Life.
+Completion grants: 2 Force, 1 Entropy."				
+Node_0	"+5% Accuracy.
+» +1 Initiative."			
+Node_0.0	+1 Finesse.			
+Node_0.1	+1 Power.			
+Node_0.2	+1 Strength.			
+Node_0.3	+1 Wits.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2	+13% invested Finesse.			
+Node_2.0	+6% Accuracy.			
+Node_2.1	+4% Critical Chance.			
+Node_2.2	+10% Damage.			
+Node_2.3	+0.6 Movement Speed.			
+Node_3	+7% Damage.			
+Node_3.0	Paucity activates when you reach Battered or Harried 7 and above.			
+Node_3.1	Once per round, per target, Violent Strike activates when you deal damage to an enemy exceeding 20% of their total Vitality over a turn.			
+Node_3.2	Once per round, activate Paucity for 1 turn when your Physical or Magic Armor is damaged to zero.			
+Node_4				
+Node_4.0	Paucity grants: +10% Accuracy, +20% damage, and +10 Initiative.			
+Node_4.1	When you perform a Violent Strike, gain Elemental Arrowheads for 1 turn, matching the surface your target is standing in.			
+Node_4.2	Violent Strike applies +1 Battered and Harried to its primary target.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Force: The Manticore				
+Because flesh cannot feed famished wrath, cruelty hunts but never eats. 				
+"Requires: 5 Force, 1 Entropy.
+Completion grants: 3 Force."				
+Node_0	+15% Vitality restored from Voracity.			
+Node_0.0	+1 Finesse.			
+Node_0.1	+1 Power.			
+Node_0.2	+1 Strength.			
+Node_0.3	+1 Wits.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2	"+10% summon Vitality restored from Voracity.
+» +7% Armors restored from Voracity."			
+Node_2.0	+6% Accuracy.			
+Node_2.1	+4% Critical Chance.			
+Node_2.2	+10% Damage.			
+Node_2.3	+0.6 Movement Speed.			
+Node_3				
+Node_3.0	"Once per round, when you drop to 25% Vitality or below, activate Paucity.
+» +5% Lifesteal."			
+Node_3.1	Predator reactions can be performed when an ally applies Terrified to an enemy you can see.			
+Node_4				
+Node_4.0	If you have Paucity active at the end of your turn, emulate the effects of Black Shroud on the nearest enemy you can see within 13m.			
+Node_4.1	If you activate Paucity when you have a dagger equipped, sneak and become invisible until the start of your next turn.			
+Node_4.2	Source Infusion 1: your next Predator reaction emulates the effects of Fan of Knives.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Force: The Scorpion				
+The hand that assumes the shape of a sword seizes its truth. 				
+"Requires: 4 Force, 2 Entropy.
+Completion grants: 2 Force."				
+Node_0	"+3% Earth Resistance.
+» +1% Physical Resistance."			
+Node_0.0	+1 Aerotheurge.			
+Node_0.1	+1 Huntsman.			
+Node_0.2	+1 Pyrokinetic.			
+Node_0.3	+1 Scoundrel.			
+Node_0.4	+1 Warfare.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2				
+Node_2.0	Elementalist reactions can be performed when an ally targets an enemy or point you can see with a Geomancer or Pyrokinetic skill. The reaction deals earth or fire damage, respectively.			
+Node_2.1	Once per round, per target, activate Vitality Void after dealing total damage, to a non-summon enemy, exceeding 30% of their total Vitality over a turn.			
+Node_2.2	Elementalist reactions can be performed when an ally directly targets an enemy you can see with a Necromancer or Scoundrel skill. The reaction deals water or air damage, respectively.			
+Node_3				
+Node_3.0	Gain +5% critical chance per stack of Elementalist.			
+Node_3.1	Your Vitality Void applies Acid, Calcifying, and Suffocating for 1 turn.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Force: The Tiger				
+The opened throat does not condemn the hunter, but pours out a river of praise.				
+"Requires: 4 Force, 2 Life.
+Completion grants: 2 Force."				
+Node_0	"+3% Fire Resistance.
+» +1% Physical Resistance."			
+Node_0.0	+1 Aerotheurge.			
+Node_0.1	+1 Huntsman.			
+Node_0.2	+1 Pyrokinetic.			
+Node_0.3	+1 Scoundrel.			
+Node_0.4	+1 Warfare.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2				
+Node_2.0	Predator reactions can be performed when an ally applies Dazzled to an enemy you can see.			
+Node_2.1	"When reduced to 30% Vitality (+1.5% per Life) or below, activate Purity.
+» +0.6 Movement Speed."			
+Node_2.2	Once per round, activate Purity when a non-summon enemy dies.			
+Node_3				
+Node_3.0	When you have two weapons equipped, your Predator reaction range becomes 10m, unless already higher.			
+Node_3.1	"Predator reactions apply Bleeding for 2 turns; if the target already has Bleeding, also apply Hemorrhage for 2 turns, which behaves identically to Bleeding.
+» +7% Damage."			
+Node_3.2	Purity aura grants: +10% Accuracy, +15% Damage, and +15% Vitality restored from Voracity.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Life: The Enchantress				
+The gilded cage still imprisons, and the silken cord yet restrains. 				
+"Requires: 1 Force, 5 Life.
+Completion grants: 3 Life."				
+Node_0	+4% Critical Chance.			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Finesse.			
+Node_0.2	+1 Memory.			
+Node_0.3	+1 Power.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2	"+10% invested Memory.
+» +1 Memory."			
+Node_2.0	+6% Accuracy.			
+Node_2.1	+10% Damage.			
+Node_2.2	"+3 Initiative.
+» +6% invested Memory."			
+Node_3				
+Node_3.0	Elementalist reactions can be performed when an ally performs a Centurion reaction or applies Weakened III. The reaction deals air or water damage, respectively.			
+Node_3.1	If you already have 3 stacks of Elementalist or more when you perform an Elementalist reaction, activate Prosperity for 1 turn, regardless of your Vitality.			
+Node_4				
+Node_4.0	When you activate Purity, lose 4 stacks of Elementalist.			
+Node_4.1	Gain +2% to all resistances and +2% critical chance per stack of Elementalist.			
+Node_4.2	If you have Prosperity, your Source Infusions apply at +1 effective infusion for Aerosphere, Armor of Frost, and Lightning Bolt.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Life: The Huntress				
+The master’s art disdains trophies and leaves no trace.				
+"Requires: 2 Force, 1 Inertia, 3 Life.
+Completion grants: 1 Force, 2 Life."				
+Node_0	"+3% Maximum Vitality.
+» +0.2 Movement Speed."			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Finesse.			
+Node_0.2	+1 Memory.			
+Node_0.3	+1 Power.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2	+4% Critical Chance.			
+Node_2.0	+8% Accuracy.			
+Node_2.1	+13% Damage.			
+Node_2.2	"+3 Initiative.
+» +0.5 Movement Speed."			
+Node_3				
+Node_3.0	"Unlock basic activation of Prosperity.
+» Source Infusion 1: When you perform Flurry, activate Prosperity for 2 turns, regardless of your Vitality."			
+Node_3.1	"When reduced to 30% Vitality (+1.5% per Life) or below, activate Purity.
+» Once per turn, activate Purity when you lose Prosperity.
+» +4% Dodge Chance."			
+Node_4				
+Node_4.0	Prosperity grants +1 duration to Farseer, Peace of Mind, and Haste; these statuses now grant +5% accuracy and +7% critical chance.			
+Node_4.1	If you have Prosperity, your Source Infusions apply at +1 effective infusion for Elemental Arrowheads, First Aid, and Marksman's Fang.			
+Node_4.2	Once per round, if Purity would activate but has remaining cooldown, reduce its remaining cooldown by 1.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Life: The Nymph				
+Before the tyranny of beauty conquerors yield their crowns. 				
+"Requires: 1 Inertia, 5 Life.
+Completion grants: 3 Life."				
+Node_0	+10% invested Memory.			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Finesse.			
+Node_0.2	+1 Memory.			
+Node_0.3	+1 Power.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2	+6% Maximum Magic Armor.			
+Node_2.0	"+4% Dodge Chance.
+» +2 Initiative."			
+Node_2.1	+4% Maximum Vitality.			
+Node_2.2	+7% missing Vitality Regen (50% max).			
+Node_2.3	+0.6 Movement Speed.			
+Node_3				
+Node_3.0	Celestial reactions can be performed when an ally activates Purity or Paucity, and does not have full Vitality.			
+Node_3.1	When reduced to 30% Vitality (+1.5% per Life) or below, activate Purity.			
+Node_3.2	Your Celestial reactions reduce your Purity's remaining cooldown by 1.			
+Node_4				
+Node_4.0	Source Infusion 1: your next Celestial reaction grants 1 Source Point. Source Infusion 2: in combat round 3 or later, your next Celestial reaction grants 2 Source Points. 			
+Node_4.1	Purity, upon activation and at the start of your turn, applies up to Subjugated III for 2 turns to enemies within 8m.			
+Node_4.2	Source Infusion 1: your next Purity activation emulates the effects of Spontaneous Combustion on enemies you can see within 10m.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Life: Pegasus				
+Majesty casts away the dross more easily than the wind shrugs off a manacle.				
+"Requires: 2 Inertia, 4 Life.
+Completion grants: 2 Life."				
+Node_0	+2% to Elemental Resistances.			
+Node_0.0	+1 Huntsman.			
+Node_0.1	+1 Aerotheurge.			
+Node_0.2	+1 Hydrosophist.			
+Node_0.3	+1 Pyrokinetic.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2				
+Node_2.0	"Learn the Mercy skill, which activates Benevolence on allies around you.
+» If you have a free off hand, activate Benevolence when an ally activates Purity or Paucity.
+» +2% to all Resistances."			
+Node_2.1	Elementalist reactions can be performed when an ally targets an enemy or point you can see with an Aerotheurge or Hydrosophist skill. The reaction deals air or water damage, respectively.			
+Node_2.2	"Presence grants +0.1 movement per Leadership.
+» +0.4 Movement Speed."			
+Node_2.3	Elementalist reactions can be performed when an ally targets an enemy or point you can see with a Huntsman or Warfare skill. The reaction deals earth or fire damage, respectively.			
+Node_3	"+0.4 Movement Speed.
+» +3% Maximum Vitality."			
+Node_3.0	Benevolence restores 15% of missing Vitality and grants +5% elemental resistances for 1 turn, to each target.			
+Node_3.1	When you remove 3 stacks of Battered and/or Harried with Benevolence, activate Purity, or if it is on cooldown, reduce its remaining cooldown by 1.			
+Node_3.2	When an ally performs a Celestial reaction on you, lose 1 stack of Elementalist.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Life: The Stag				
+Compassion humbles arrow, sword, and spear.				
+"Requires: 2 Force, 4 Life.
+Completion grants: 2 Life."				
+Node_0	+2% to Elemental Resistances.			
+Node_0.0	+1 Huntsman.			
+Node_0.1	+1 Aerotheurge.			
+Node_0.2	+1 Hydrosophist.			
+Node_0.3	+1 Pyrokinetic.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2	+2% to all Resistances.			
+Node_2.0	Celestial reactions can be performed on allies you can see with less than 50% Vitality when they spend Source. If you already have this activator: the target no longer needs to be below 50% Vitality.			
+Node_2.1	Activate Violent Strike when you remove a stack of Battered or Harried from an ally.			
+Node_2.2	"Unlock basic activation of Defiance.
+» Defiance grants +7% to elemental resistances."			
+Node_3				
+Node_3.0	Celestial reactions apply Haste for 1 turn.			
+Node_3.1	Celestial reactions apply Magic Shell for 2 turns.			
+Node_3.2	If you are affected by Purity, once per round when you perform a Violent Strike, emulate the effects of Glaciate and Ignition. 			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Form: The Basilisk				
+Serenity strips the wrathful of their arrogance. 				
+"Requires: 2 Entropy, 4 Form.
+Completion grants: 2 Form."				
+Node_0	"+3% Poison Resistance.
+» +1% Physical Resistance."			
+Node_0.0	+1 Geomancer.			
+Node_0.1	+1 Necromancer.			
+Node_0.2	+1 Pyrokinetic.			
+Node_0.3	+1 Summoning.			
+Node_0.4	+2% summon Resistances.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2				
+Node_2.0	If you have a free off hand at the end of your turn, perform an Occultist reaction on the nearest non-totem enemy you can see.			
+Node_2.1	When you apply Calcifying to an enemy, apply Withered for 1 turn.			
+Node_2.2	"+10% summon Accuracy.
+» +10% summon Damage.
+» +5% summon Resistances."			
+Node_3				
+Node_3.0	"Source Infusion 1: when you perform an Occultist reaction, emulate the effects of Petrifying Visage.
+» +7% Damage."			
+Node_3.1	"Occultist reactions apply up to Slowed II for 2 turns.
+» +1 free Occultist reaction per round."			
+Node_3.2	Withered applies -5% movement (-1.5% per Form and Entropy).			
+Node_3.3	"+10% summon Dodge.
+» +13% summon Maximum Vitality.
+» +10% summon Damage."			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Form: Doppelganger				
+Illusions vanish, but do not bleed. 				
+"Requires: 1 Entropy, 5 Form.
+Completion grants: 3 Form."				
+Node_0	"+0.3% Increased Battered and Harried Threshold.
+» +Magic Armor: Small (scales with level)."			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Memory.			
+Node_0.2	+1 Power.			
+Node_0.3	+1 Strength.			
+Node_0.4	+5% summon Damage.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2	+1% Increased Battered and Harried Threshold.			
+Node_2.0	+7% Dodge Chance.			
+Node_2.1	+13% missing Physical Armor Regen (50% max).			
+Node_2.2	+13% missing Magic Armor Regen (50% max).			
+Node_2.3	+10% missing Vitality Regen (50% max).			
+Node_2.4	Presence grants +1.5% Wits per Leadership.			
+Node_3				
+Node_3.0	"Learn the Adaptation skill.
+» Adaptation activates, granting 3 stacks, when you cast any Incarnate infusion."			
+Node_3.1	Once per round, Occultist reactions can be performed when an enemy you can see kills an allied summon.			
+Node_3.2	"+8% summon Accuracy.
+» +11% summon Critical Chance.
+» +12% summon Damage."			
+Node_4				
+Node_4.0	Adaptation grants +2% missing Vitality, Physical, and Magic Armor regeneration.			
+Node_4.1	If you have 6 or more stacks of Adaptation when you perform an Occultist reaction, lose 1 stack of Adaptation and emulate the effects of Throw Dust.			
+Node_4.2	Conjure Incarnate summons an Incarnate Champion.			
+Node_4.3	If you do not already have this benefit, increase your summon limit by 1.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Form: The Dragon				
+Defiance feeds on dissent like a flame until only blazing rebellion remains.				
+"Requires: 5 Form, 1 Inertia.
+Completion grants: 3 Form."				
+Node_0	"+3% Accuracy.
+» +5% Damage."			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Memory.			
+Node_0.2	+1 Power.			
+Node_0.3	+1 Strength.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2				
+Node_2.0	"+8% Accuracy.
+» +0.6 Movement Speed."			
+Node_2.1	"+13% Damage.
+» +0.6 Movement Speed."			
+Node_2.2	"+5 Initiative.
+» +1.5% Increased Battered and Harried Threshold."			
+Node_2.3	"Unlock basic activation of Defiance.
+» If you already have this activator: activate Defiance at the start of your turn if you have 3 or more non-totem allies within 5m of you. Defiance grants +15% damage."			
+Node_3				
+Node_3.0	"Unlock basic activation of Abeyance.
+» -0.2% Abeyance activation threshold per Power and Wits over 10."			
+Node_3.1	Centurion activates on enemies targeted by allied Predator reactions.			
+Node_3.2	"Unlock basic activation of Defiance.
+» Defiance grants +10 initiative and +2 free Centurion reactions."			
+Node_4				
+Node_4.0	If you have 5 or more stacks of Adaptation when you activate Abeyance, pay 1 stack of Adaptation for each enemy you can see within 8m to deal fire damage to it.			
+Node_4.1	When Abeyance activates due to an enemy, and you control totems who can see this enemy, you order these totems to retaliate instead of abeying the damage.			
+Node_4.2	If you have 5 or more stacks of Adaptation when you perform a Centurion reaction, lose 1 stack of Adaptation and emulate the effects of Dragon's Blaze.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Form: The Gryphon				
+The first to ascend builds a stair for those who follow.				
+"Requires: 4 Form, 2 Inertia.
+Completion grants: 2 Form."				
+Node_0	"+3% Fire Resistance.
+» +1% Physical Resistance."			
+Node_0.0	+1 Geomancer.			
+Node_0.1	+1 Necromancer.			
+Node_0.2	+1 Pyrokinetic.			
+Node_0.3	+1 Summoning.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2				
+Node_2.0	Centurion reactions may be performed when an enemy you can see misses you.			
+Node_2.1	"After you have suffered total damage exceeding 70% of your maximum Vitality (-1% per Constitution over 10, minimum of 20%), activate Ward for 1 turn.
+» When an enemy critically hits you, activate Ward.
+» +1.7% Increased Battered and Harried Threshold."			
+Node_2.2	"+2 Maximum Adaptation stacks.
+» +13% invested Strength."			
+Node_2.3	Centurion reactions may be performed when you perform an attack of Opportunity.			
+Node_3				
+Node_3.0	When you perform a Centurion reaction, gain 2 stacks of Adaptation.			
+Node_3.1	Centurion reactions gain +10% critical strike chance per stack of Adaptation.			
+Node_3.2	When you activate Ward, activate Adaptation gaining 2 stacks.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Form: Wealth				
+Gold rebukes with a heavy hand.				
+"Requires: 1 Entropy, 3 Form, 2 Inertia.
+Completion grants: 2 Form, 1 Inertia."				
+Node_0	+10% invested Memory.			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Memory.			
+Node_0.2	+1 Power.			
+Node_0.3	+1 Strength.			
+Node_0.4	+1% summon Resistances.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2	+10% Damage.			
+Node_2.0	+7% Dodge Chance.			
+Node_2.1	+13% missing Physical Armor Regen (50% max).			
+Node_2.2	+13% missing Magic Armor Regen (50% max).			
+Node_2.3	+10% missing Vitality Regen (50% max).			
+Node_2.4	"+8% summon Dodge.
+» +10% missing summon Vitality Regen (50% max).
+» +2 summon Perseverance."			
+Node_3				
+Node_3.0	"Unlock basic activation of Abeyance.
+» -5% damage from Abeyance (-1% per Form and Inertia), up to -45%.
+» +2% to all Resistances."			
+Node_3.1	"Learn the Adaptation skill.
+» Adaptation activates, granting 3 stacks, when you perform Flurry."			
+Node_3.2	"+2 Maximum Adaptation stacks.
+» +14% invested Memory."			
+Node_3.3	"+15% summon Maximum Vitality.
+» +0.6 summon Movement Speed."			
+Node_4				
+Node_4.0	"When you activate Abeyance, if you control three or more totems, sacrifice your oldest totem to reduce the damage that you would suffer from Abeyance by 40%.
+» +2% to all Resistances."			
+Node_4.1	If you have 5 or more stacks of Adaptation when you cast Fortify or Peace of Mind, lose 5 stacks of Adaptation and extend that target's Source Generation by 1 turn.			
+Node_4.2	If you have 8 or more stacks of Adaptation when you cast Meteor Shower, lose 5 stacks of Adaptation and gain +1 effective Source Infusion level for this cast.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Inertia: The Casque				
+The steel skull shelters an iron will. 				
+"Requires: 5 Inertia, 1 Life.
+Completion grants: 3 Inertia."				
+Node_0	"+0.4% Increased Battered and Harried Threshold.
+» +3% Maximum Vitality."			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Finesse.			
+Node_0.2	+1 Memory.			
+Node_0.3	+1 Strength.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2				
+Node_2.0	"+8% Dodge Chance.
+» +2% Physical Resistance."			
+Node_2.1	"+0.9 Movement Speed.
+» +2% Physical Resistance."			
+Node_2.2	"+5% Maximum Physical Armor.
+» +3% Physical Resistance."			
+Node_2.3	Presence grants +1% missing Physical and Magic Armor regeneration per Leadership.			
+Node_3	+2% to Elemental Resistances.			
+Node_3.0	"Learn the Mercy skill, which activates Benevolence on allies around you.
+» If you have a free off hand, when an ally activates Paucity or Purity, activate Benevolence, removing +1 Battered and Harried."			
+Node_3.1	Perform Celestial on allies you can see when a friendly effect removes Battered or Harried from them.			
+Node_3.2	Perform Celestial on allies you can see when they reach 3 stacks or more of Elementalist, once per ally per round.			
+Node_4				
+Node_4.0	"Once per round, when you remove three or more stacks of Battered or Harried with Benevolence, gain a exceptional amount of base Physical and Magical Armor (based on character level) for 2 turns.
+» +2% to Elemental Resistances."			
+Node_4.1	Once per round, duplicate the effect of your Celestial reaction on yourself.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Inertia: The Centurion				
+Pay all debts in kind.				
+"Requires: 1 Form, 3 Inertia, 2 Life.
+Completion grants: 2 Inertia, 1 Life."				
+Node_0	"+0.3% Increased Battered and Harried Threshold.
+» +0.4 Movement Speed."			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Finesse.			
+Node_0.2	+1 Memory.			
+Node_0.3	+1 Strength.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2				
+Node_2.0	"+8% Accuracy.
+» +4% Critical Chance."			
+Node_2.1	"+13% Damage.
+» +4% Critical Chance."			
+Node_2.2	"+6 Initiative.
+» +15% invested Strength."			
+Node_2.3	Once per turn, Centurion reactions performed while Defiance is active afflict the target with 1 additional stack of Battered and Harried.			
+Node_3				
+Node_3.0	Centurion reactions can be performed when an enemy you can see within weapon range (up to 5m away) hits a non-self ally with a basic attack or spell.			
+Node_3.1	When you perform your third Celestial and/or Centurion reaction in a single round, activate Ward and extend Source Generation by 1 turn.			
+Node_3.2	Centurion reactions can be performed when your Ward is caused to activate due to an enemy.			
+Node_4				
+Node_4.0	Source Infusion 1: when you perform a Centurion reaction, apply Ruptured Tendons for 1 turn to enemies you hit.			
+Node_4.1	When you perform a Centurion reaction, activate Violent Strike and gain +20% damage (+3% per invested Strength) during the reaction.			
+Node_4.2	Your Ward grants Volatile Armor: 15% of Armor damage taken is dealt to others within 2m as physical damage.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Inertia: The Gladiator				
+Glorious deeds echo through eternity.				
+"Requires: 3 Form, 3 Inertia.
+Completion grants: 1 Form, 2 Inertia."				
+Node_0	"+5% Dodge Chance.
+» +1 Initiative."			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Finesse.			
+Node_0.2	+1 Memory.			
+Node_0.3	+1 Strength.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2				
+Node_2.0	"+8% Accuracy.
+» +5% Dodge Chance."			
+Node_2.1	"+14% Damage.
+» +5% Dodge Chance."			
+Node_2.2	"+6 Initiative.
+» +8% Dodge Chance."			
+Node_2.3	+2 Maximum Adaptation stacks.			
+Node_3				
+Node_3.0	"Learn the Mercy skill, which activates Benevolence on allies around you.
+» Once per round, when you reach 10 or more stacks of Adaptation, emulate the effects of Mercy.
+» +2% to Elemental Resistances."			
+Node_3.1	After you have suffered total damage exceeding 70% of your maximum Vitality (-1% per Constitution over 10, minimum of 20%), activate Ward for 1 turn.			
+Node_3.2	Once per turn, when you have two weapons equipped and an attack misses you, activate Ward for 1 turn.			
+Node_4				
+Node_4.0	Benevolence applies 2 stacks of Adaptation to allies it affects.			
+Node_4.1	When you activate Ward, restore 5% of your total Vitality and remove 1 stack of Battered or Harried, whichever is higher.			
+Node_4.2	If you have Ward, Centurion reactions restore 20% of your missing Physical and Magical Armor, and gain +0.75% damage per percent of your current Physical and Magical Armor.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Inertia: The Hippopotamus				
+Blows merely brush the dust from its hide.				
+"Requires: 4 Inertia, 2 Life.
+Completion grants: 2 Inertia."				
+Node_0	"+1% Physical Resistance.
+» +3% Water Resistance."			
+Node_0.0	+1 Aerotheurge.			
+Node_0.1	+1 Geomancer.			
+Node_0.2	+1 Hydrosophist.			
+Node_0.3	+1 Warfare.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2				
+Node_2.0	"Once per round per ally, Celestial reactions can be performed on allies you can see that perform a critical strike, if they are missing Vitality. 
+» +1 free Celestial reaction per round."			
+Node_2.1	Unlock basic activation of Prosperity.			
+Node_2.2	Once per round, activate Prosperity for 1 turn when you activate Ward, regardless of your Vitality.			
+Node_3				
+Node_3.0	Celestial reactions also restore 15% of target's missing Physical and Magical Armor (+2% per Inertia).			
+Node_3.1	"Celestial reactions activate Violent Strike for allies.
+» +14% invested Constitution."			
+Node_3.2	Prosperity grants +10% physical and piercing resistance.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Inertia: The Rhinoceros				
+Tread heavily; strike mercilessly.				
+"Requires: 2 Form, 4 Inertia.
+Completion grants: 2 Inertia."				
+Node_0	"+1% Physical Resistance.
+» +3% Earth Resistance."			
+Node_0.0	+1 Aerotheurge.			
+Node_0.1	+1 Geomancer.			
+Node_0.2	+1 Hydrosophist.			
+Node_0.3	+1 Warfare.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2				
+Node_2.0	"Unlock basic activation of Abeyance.
+» Abeyance damages your Physical Armor, then Magical Armor, and then Vitality. 
+» +5% Physical Resistance."			
+Node_2.1	"Centurion reactions can be performed when an enemy you can see applies a tier II or III status to you or an ally.
+» +1 free Centurion reaction per round."			
+Node_2.2	"Unlock basic activation of Defiance.
+» Defiance grants +25% damage. +1 Defiance duration."			
+Node_3				
+Node_3.0	Twice per round, if you have a shield equipped when Abeyance activates, emulate the effects of Shields Up.			
+Node_3.1	Once per round, your Centurion reaction emulates the effects of Battle Stomp instead of performing a basic attack. If normally less than 10m, Centurion's range becomes 10m for this reaction.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Entropy: Blood Ape				
+At the gate of blood the faithful always find admittance.				
+"Requires: 1 Force, 3 Entropy, 2 Form.
+Completion grants: 2 Entropy, 1 Form."				
+Node_0	"+1 Initiative.
+» +7% Armors restored from Voracity."			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Memory.			
+Node_0.2	+1 Power.			
+Node_0.3	+1 Wits.			
+Node_0.4	+0.2 summon Movement Speed.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2	+5% Armors restored from Voracity.			
+Node_2.0	"+3 Initiative.
+» +10% Damage."			
+Node_2.1	+6% Maximum Magic Armor.			
+Node_2.2	+14% missing Magic Armor Regen (50% max).			
+Node_2.3	"+0.6 summon Movement Speed.
+» +10% summon Vitality restored from Voracity."			
+Node_3				
+Node_3.0	Once per turn, when damage from an enemy causes you to drop to 35% Vitality or below, activate Vitality Void.			
+Node_3.1	When you apply Bleeding to an enemy, apply Withered for 1 turn.			
+Node_3.2	"+10% summon Critical Chance.
+» +10% summon Lifesteal."			
+Node_4				
+Node_4.0	Once per round, when Vitality Void hits 3 or more targets, extend your Source Generation by 1 turn.			
+Node_4.1	Source Infusion 1, Pay 20% of your total Vitality: when you perform a basic attack on an enemy with Withered, also emulate the effects of Grasp of the Starved.			
+Node_4.2	Conjure Incarnate summons an Incarnate Champion.			
+Node_4.3	If you do not already have this benefit, increase your summon limit by 1.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Entropy: Extinction				
+Mere annihilation does not end the contract.				
+"Requires: 2 Force, 4 Entropy.
+Completion grants: 2 Entropy."				
+Node_0	+3% to Elemental Resistances.			
+Node_0.0	+1 Geomancer.			
+Node_0.1	+1 Hydrosophist.			
+Node_0.2	+1 Necromancer.			
+Node_0.3	+1 Scoundrel.			
+Node_0.4	+1 Summoning.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2				
+Node_2.0	"Paucity activates when three or more of your allies, including totems or summons, die in a single round.
+» +13% Damage."			
+Node_2.1	At the end of your turn, perform a Predator reaction on the nearest enemy you can see within 3m of a corpse.			
+Node_2.2	Learn Summon Boneshaped Skitterer: 3 AP; summons a small, autonomous skeletal construct to fight for you for 3 turns, which will detonate upon death dealing piercing damage to enemies in a 3m radius. Skitterers deal similar damage to totems, but are melee, may move, and can backstab. Skitterers do not count against your summon limit.			
+Node_3				
+Node_3.0	Paucity activates for your summons whenever it activates for you. Paucity grants: +10% Accuracy, +10% damage, and +10 Initiative.			
+Node_3.1	If you know Summon Boneshaped Skitterer, Predator reactions no longer perform a basic attack, and instead summon a Boneshaped Skitterer adjacent to the target. For this effect, your Predator reaction range becomes 13m, unless already higher.			
+Node_3.2	While performing a Predator reaction, gain +20% damage per corpse you can see, up to a maximum of 100%.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Entropy: The Imp				
+Malice delights in weakness.				
+"Requires: 5 Entropy, 1 Form.
+Completion grants: 3 Entropy."				
+Node_0	+4% Critical Chance.			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Memory.			
+Node_0.2	+1 Power.			
+Node_0.3	+1 Wits.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2	+5% Lifesteal.			
+Node_2.0	"+3 Initiative.
+» +0.35 Movement Speed."			
+Node_2.1	"+4% Maximum Magic Armor.
+» +1 Initiative."			
+Node_2.2	+10% missing Magic Armor Regen (50% max).			
+Node_3				
+Node_3.0	Occultist reactions can be performed when an ally applies Wither to an enemy you can see; once per enemy, per round.			
+Node_3.1	Apply Withered for 2 turns when you afflict an enemy with Subjugated or Terrified.			
+Node_4				
+Node_4.0	Occultist reactions count as basic attacks.			
+Node_4.1	Withered applies up to Vulnerable II for 2 turns.			
+Node_4.2	If you have 4 or more stacks of Adaptation when you perform a basic attack on an enemy with Withered, lose 1 stack of Adaptation and emulate the effects of Vampiric Touch.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Entropy: The Hyena				
+Extremity of want turns bone to bread and marrow to wine.				
+"Requires: 1 Force, 5 Entropy.
+Completion grants: 3 Entropy."				
+Node_0	+15% Vitality restored from Voracity.			
+Node_0.0	+1 Constitution.			
+Node_0.1	+1 Memory.			
+Node_0.2	+1 Power.			
+Node_0.3	+1 Wits.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2	+15% Vitality restored from Voracity.			
+Node_2.0	"+5% Critical Chance.
+» +1 Initiative."			
+Node_2.1	+13% Damage.			
+Node_2.2	+5% Lifesteal.			
+Node_3				
+Node_3.0	Once per round, Predator reactions can be performed when an ally perfoms a Predator reaction on an enemy you can see.			
+Node_3.1	For each Source Point you spend in combat, activate Vitality Void.			
+Node_3.2	Vitality Void also activates whenever you suffer a tier III status.			
+Node_4				
+Node_4.0	Predator reactions activate Voracity at 50% effectiveness.			
+Node_4.1	Vitality Void applies up to Subjugated II and Terrified II for 1 turn.			
+Node_4.2	Vitality Void deals additional damage, equivalent to 3% of your maximum Vitality per enemy it hits.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Entropy: The Supplicant				
+Ask of the lesser lest the greater not wish to answer.				
+"Requires: 4 Entropy, 2 Form.
+Completion grants: 2 Entropy."				
+Node_0	+3% to Elemental Resistances.			
+Node_0.0	+1 Geomancer.			
+Node_0.1	+1 Hydrosophist.			
+Node_0.2	+1 Necromancer.			
+Node_0.3	+1 Scoundrel.			
+Node_0.4	+1 Summoning.			
+Node_1				
+Node_1.0	+1 Force.			
+Node_1.1	+1 Entropy.			
+Node_1.2	+1 Form.			
+Node_1.3	+1 Inertia.			
+Node_1.4	+1 Life.			
+Node_2				
+Node_2.0	"Learn the Adaptation skill.
+» Adaptation activates, granting 2 stacks, when an enemy kills an ally."			
+Node_2.1	Once per round, Occultist reactions can be performed when an enemy you can see kills an allied summon.			
+Node_2.2	"+2 Maximum Adaptation stacks.
+» +10% invested Power."			
+Node_3				
+Node_3.0	Adaptation grants +2% invested Power and +1% Lifesteal.			
+Node_3.1	Occultist reactions summon a totem adjacent to the target.			
+Node_3.2	If you have 7 or more stacks of Adaptation when you perform an Occultist reaction, lose 2 stacks of Adaptation and emulate the effects of Infect.			
+Node_3.3	Learn Summon Accursed Vessel, which functions identically to Summon Bloated Corpse, but does not require a corpse and generates a corpse when it uses Vile Burst. If you have Paucity active, Accursed Vessel's detonation applies Wither for 2 turns.			
+
+
+
+Force: The Conqueror				
+Simple violence does not suffice, only dominion satisfies.				
+"Requires: 7 Force, 1 Entropy, 5 Life.
+"				
+Node_0	"+2 Finesse.
+» +5 Initiative."			
+Node_0.0	+8% Accuracy.			
+Node_0.1	+5% Critical Chance.			
+Node_0.2	+13% Damage.			
+Node_0.3	+0.8 Movement Speed.			
+Node_1	+3% to all Resistances.			
+Node_1.0	+14% Air Resistance.			
+Node_1.1	+14% Fire Resistance.			
+Node_1.2	+3% Physical Resistance.			
+Node_1.3	Aerotheurge, Geomancer, Hydrosophist, Necromancer, Pyromancer, and Summoning skills activate Finesse's AP recovery effect, but your basic attacks no longer activate this effect.			
+Node_2				
+Node_2.0	While you have a two handed weapon equipped, gain +2.5% armor per point in Two Handed.			
+Node_2.1	During your turn, You have a 15% chance (+3% per Force) as you hit an enemy to activate Violent Strike.			
+Node_2.2	"+20% invested Finesse.
+» +20% invested Power."			
+Node_3				
+Node_3.0	Purity grants you +1 AP recovery.			
+Node_3.1	"Violent Strike gains +5% damage for every 5 Finesse or Strength over 10, whichever is higher, up to 100%.
+» +7% Damage."			
+Node_4				
+Node_4.0	When you activate Purity, extend the duration of Source generation by 1. When a non-summon enemy dies, if Purity has remaining cooldown, reduce its remaining cooldown by 1.			
+Node_4.1	When you perform a Violent Strike, activate Vitality Void.			
+Node_4.2	While in combat, you can never have more than 2 Source Points, but Source Generation grants an additional Source Point each turn.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Force: The Kraken				
+Where the abyss rises cities fall.				
+"Requires: 7 Force, 5 Entropy, 1 Life.
+"				
+Node_0	"+2 Strength.
+» +10% Vitality restored from Voracity."			
+Node_0.0	"+4 Initiative.
+» +3% Lifesteal."			
+Node_0.1	+6% Maximum Physical Armor.			
+Node_0.2	+14% missing Physical Armor Regen (50% max).			
+Node_1	+1.3% Increased Battered and Harried Threshold.			
+Node_1.0	+Magic Armor: Exceptional (scales with level).			
+Node_1.1	+Physical Armor: Exceptional (scales with level).			
+Node_1.2	+9% Maximum Vitality.			
+Node_2				
+Node_2.0	Elementalist reactions can be performed when an ally performs an Elementalist or Occultist reaction. The reaction deals fire or water damage, respectively.			
+Node_2.1	If you have a free off hand and 1 stack or more of Elementalist, your Elementalist reactions targeting enemies count as basic attacks.			
+Node_2.2	"+20% invested Constitution.
+» +20% invested Power."			
+Node_3				
+Node_3.0	Gain +10% damage from Power per stack of Elementalist.			
+Node_3.1	Once per round when you activate Vitality Void, teleport each non-boss enemy with Withered within 6m to a position nearest you where they can stand.			
+Node_4				
+Node_4.0	Elementalist reactions apply statuses (based on their element) for 2 turns to characters hit, dealing damage each turn.			
+Node_4.1	When you activate Vitality Void, emulate the effects of Glaciate.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Force: Wrath				
+Let the throne of rancor bathe in blood. 				
+"Requires: 8 Force, 3 Entropy, 2 Life.
+"				
+Node_0	"+2 Power.
+» +3% Lifesteal."			
+Node_0.0	+8% Accuracy.			
+Node_0.1	+5% Critical Chance.			
+Node_0.2	+13% Damage.			
+Node_0.3	+0.8 Movement Speed.			
+Node_1				
+Node_1.0	"+1 free Elementalist reaction per round.
+» +1.1% Increased Battered and Harried Threshold.
+» +2% Physical Resistance."			
+Node_1.1	"+1 free Predator reaction per round.
+» +1.1% Increased Battered and Harried Threshold.
+» +2% Physical Resistance."			
+Node_1.2	"Unlock basic activation of Defiance.
+» Defiance grants +10% Accuracy and Critical Chance."			
+Node_2				
+Node_2.0	Activate Paucity when you gain the Berserk status.			
+Node_2.1	If you have Paucity active and a two handed weapon equipped, Vitality Void deals additional damage equal to 1% of your total Vitality per Force.			
+Node_2.2	"+20% invested Power.
+» +20% invested Wits."			
+Node_3				
+Node_3.0	If you have Paucity Active, apply Withered for 1 turn to enemies hit while performing a basic attack.			
+Node_3.1	Predator reactions gain +5% damage and +3% Lifesteal per Force.			
+Node_4				
+Node_4.0	If you have Paucity, your Assassinate, Fireball, Impalement, Onslaught, and Terrifying Cruelty skills are performed at +1 effective Source Infusion, even if uninfused.			
+Node_4.1	Source Infusion 1: when you perform a Predator reaction, emulate the effects of Horrid Wilting.			
+Node_4.2	You can no longer apply tier III statuses; if you would apply one, instead gain +90% damage for 2 turns.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Life: The Goddess				
+Whose radiance ignites stars and incinerates galaxies.				
+"Requires: 1 Force, 5 Inertia, 7 Life.
+"				
+Node_0	"+2 Memory.
+» +0.7% Increased Battered and Harried Threshold."			
+Node_0.0	+7% Dodge Chance.			
+Node_0.1	+6% Maximum Vitality.			
+Node_0.2	+10% missing Vitality Regen (50% max).			
+Node_0.3	+0.8 Movement Speed.			
+Node_1	+3% to all Resistances.			
+Node_1.0	+14% Air Resistance.			
+Node_1.1	+14% Fire Resistance.			
+Node_1.2	+14% Poison Resistance.			
+Node_1.3	+14% Water Resistance.			
+Node_2				
+Node_2.0	Celestial reactions can be performed when an ally activates Ward, if they are missing Vitality.			
+Node_2.1	Celestial reactions also restore 2% of maximum Physical and Magical armor per Life.			
+Node_2.2	"+20% invested Constitution.
+» +20% invested Memory."			
+Node_3				
+Node_3.0	Benevolence emulates the Vitality restoration of your Celestial reaction.			
+Node_3.1	Celestial reactions on allies remove 2 Battered or Harried, whichever is higher.			
+Node_4				
+Node_4.0	You no longer suffer stacks of Battered or Harried from Benevolence.			
+Node_4.1	Source Infusion 1: Celestial reactions can be performed when an allied character dies, resurrecting the fallen character with 50% Vitality at your position. You suffer 7 stacks of Battered and Harried.			
+Node_4.2	During your turn, your allies perform their reactions without spending any AP. Whenever one or more allies perform a reaction at the same time during your turn, recover 1AP.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Life: Hope				
+The beacon burns brightest when shadowed by desperation.				
+"Requires: 5 Force, 1 Inertia, 7 Life.
+"				
+Node_0	"+2 Constitution.
+» +5 Initiative."			
+Node_0.0	+7% Dodge Chance.			
+Node_0.1	+6% Maximum Vitality.			
+Node_0.2	+10% missing Vitality Regen (50% max).			
+Node_0.3	+0.8 Movement Speed.			
+Node_1				
+Node_1.0	"+Magic Armor: Exceptional (scales with level).
+» +1.3% Increased Battered and Harried Threshold."			
+Node_1.1	"+Physical Armor: Exceptional (scales with level).
+» +1.3% Increased Battered and Harried Threshold."			
+Node_1.2	"+9% Maximum Vitality.
+» +1.3% Increased Battered and Harried Threshold."			
+Node_1.3	Presence grants +0.1 Movement per Leadership.			
+Node_2				
+Node_2.0	Activate Purity when you perform Shields Up.			
+Node_2.1	Once per turn, If you have two weapons equipped while performing a Centurion reaction, gain +100% Critical Chance during the reaction.			
+Node_2.2	"+20% invested Constitution.
+» +20% invested Strength."			
+Node_3				
+Node_3.0	If you are affected by Purity, Centurion reactions gain +6% damage per Force, Inertia, and Life.			
+Node_3.1	Source Infusion 1: when you perform a Centurion reaction, emulate the effects of Supernova.			
+Node_3.2	When you activate Purity, gain Blinding Radiance for 2 turns. -1 turn Purity cooldown.			
+Node_4				
+Node_4.0	When an ally activates Abeyance, Paucity, or Purity in response to an enemy you can see, activate Violent Strike, teleport to that enemy, and attempt to perform a Centurion reaction on it.			
+Node_4.1	If you have Purity active, your Aerotheurge and Pyrokinetic skills remove it to perform at +1 effective Source Infusion.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Life: Splendor				
+Her glory engulfs all lesser lights like candles before the sun.				
+"Requires: 3 Force, 2 Inertia, 8 Life.
+"				
+Node_0	"+2 Power.
+» +3% Critical Chance."			
+Node_0.0	+8% Accuracy.			
+Node_0.1	+13% Damage.			
+Node_0.2	"+3 Initiative.
+» +0.5 Movement Speed."			
+Node_1	"+0.7% Increased Battered and Harried Threshold.
+» +1% to Maximum Elemental Resistances."			
+Node_1.0	+1 free Celestial reaction per round.			
+Node_1.1	+1 free Elementalist reaction per round.			
+Node_1.2	Aerotheurge, Geomancer, Hydrosophist, Necromancer, Pyromancer, and Summoning skills activate Finesse's AP recovery effect, but your basic attacks no longer activate this effect.			
+Node_2				
+Node_2.0	Activate Prosperity for 1 turn when you activate Purity, regardless of your Vitality.			
+Node_2.1	When you apply Scorched to an enemy, apply up to Dazzled II for 1 turn as well. +1 Scorched duration.			
+Node_2.2	"+20% invested Finesse.
+» +20% invested Power."			
+Node_3				
+Node_3.0	Elementalist reactions gain +1m radius and no longer damage allies.			
+Node_3.1	When you cast Ignition, emulate its effects. If you have Prosperity when you apply Scorched to an enemy, also apply Charged for 1 turn.			
+Node_4				
+Node_4.0	If you have Prosperity and 4 or more stacks of Elementalist when you perform an Elementalist reaction, deal its damage again to all enemies within 13m of your target.			
+Node_4.1	Prosperity grants an Empowered Ignition spell that costs 2 AP and has a 1 turn cooldown.			
+Node_4.2	Once per round, when you perform 3 or more reactions in one round, gain 1 SP if you have Prosperity.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Form: Cerberus				
+Admit the worthy and despoil the weak. 				
+"Requires: 1 Entropy, 7 Form, 5 Inertia.
+"				
+Node_0	"+2 Strength.
+» +5 Initiative."			
+Node_0.0	+7% Dodge Chance.			
+Node_0.1	+14% missing Physical Armor Regen (50% max).			
+Node_0.2	+14% missing Magic Armor Regen (50% max).			
+Node_0.3	+10% missing Vitality Regen (50% max).			
+Node_0.4	+8% summon Resistances.			
+Node_1	+3% to all Resistances.			
+Node_1.0	+14% Earth Resistance.			
+Node_1.1	+14% Fire Resistance.			
+Node_1.2	+3% Physical Resistance.			
+Node_1.3	+14% Poison Resistance.			
+Node_1.4	+2 Maximum Adaptation stacks.			
+Node_2				
+Node_2.0	When you cast Cannibalize, activate Adaptation gaining 5 stacks, or 10 for a controllable summon.			
+Node_2.1	If you have 2 weapons equipped, Ward grants +30% damage per totem you control at the time of activation, up to +120%.			
+Node_2.2	"+20% invested Constitution.
+» +20% invested Power."			
+Node_2.3	Surfaces and clouds no longer affect your summons.			
+Node_3				
+Node_3.0	Adaptation grants: +1 Initiative, +0.1 movement, and +3.5% Constitution.			
+Node_3.1	When you activate Ward due to interaction with an enemy, summon a Boneshaped Skitterer adjacent to them.			
+Node_3.2	"+15% summon Dodge.
+» +25% summon Damage.
+» +1 summon Movement Speed."			
+Node_4				
+Node_4.0	When you activate Adaptation, also activate it for allied heroes, using your Adaptation effects.			
+Node_4.1	When you activate Adaptation, also activate it for your summons, using your Adaptation effects.			
+Node_4.2	Ward lasts 1 more turn and grants +25% Finesse, Power, and Wits.			
+Node_4.3	When one of your controlled summons dies, summon 1 (+20% of your Form and Entropy) Boneshaped Skitterer(s) that last for 3 turns at its position.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Form: The Ritual				
+Death unlocks time.				
+"Requires: 5 Entropy, 7 Form, 1 Inertia.
+"				
+Node_0	"+2 Power.
+» +3% Critical Chance."			
+Node_0.0	+8% Accuracy.			
+Node_0.1	+13% Damage.			
+Node_0.2	"+3 Initiative.
+» +9% invested Power."			
+Node_0.3	"+10% summon Damage.
+» +15% summon Dodge."			
+Node_1				
+Node_1.0	"+1 free Centurion reaction per round.
+» +1% Increased Battered and Harried Threshold.
+» +1% to Maximum Elemental Resistances."			
+Node_1.1	"+1 free Occultist reaction per round.
+» +1% Increased Battered and Harried Threshold.
+» +1% to Maximum Elemental Resistances."			
+Node_1.2	Presence grants +1% Critical Chance per Leadership.			
+Node_1.3	"Aerotheurge, Geomancer, Hydrosophist, Necromancer, Pyromancer, and Summoning skills may activate Finesse's AP recovery effect, but your basic attacks no longer activate this effect.
+» +1% Increased Battered and Harried Threshold.
+» +1% to Maximum Elemental Resistances."			
+Node_2				
+Node_2.0	"Occultist activates when you perform a ritual reaction targeting an enemy.
+» +1 free Occultist reaction per round."			
+Node_2.1	If you have a two handed weapon equipped, Withered applies -10% Dodge (-1.5% per Form and Entropy ).			
+Node_2.2	"+20% invested Finesse.
+» +20% invested Memory."			
+Node_2.3	Surfaces and clouds no longer affect your summons.			
+Node_3				
+Node_3.0	Bane applies -1 AP Recovery.			
+Node_3.1	Withered applies -20% Wits (-2% per Form, Inertia, and Entropy).			
+Node_3.2	"+15% summon Accuracy.
+» +15% summon Critical Chance.
+» +21% summon Damage."			
+Node_4				
+Node_4.0	Once per turn, when you perform an Occultist reaction on an enemy, your totems attempt to attack it.			
+Node_4.1	Source Infusion 1: When you cast Cannibalize on a controllable summon that is within 6m of 3 of your own totems, sacrifice those totems and apply Withered for 2 turns to all enemies in combat with you. Then, gain +50% damage while you emulate the effects of Finger of Death on all enemies you can see. Recover 1 SP.			
+Node_4.2	Damage cannot kill you. If you fall to 1 Vitality or below, sacrifice your oldest uncontrolled summon to return to 20% Vitality; if you have none, sacrifice your oldest controlled summon instead; if you have none, you die.			
+Node_4.3	Totems duplicate as they die; duplicates will not continue this effect.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Form: Sphinx				
+Wisdom conquers fortune.				
+"Requires: 2 Entropy, 8 Form, 3 Inertia.
+"				
+Node_0	"+2 Constitution.
+» +3% Maximum Vitality."			
+Node_0.0	+7% Dodge Chance.			
+Node_0.1	+14% missing Physical Armor Regen (50% max).			
+Node_0.2	+14% missing Magic Armor Regen (50% max).			
+Node_0.3	+10% missing Vitality Regen (50% max).			
+Node_1	+1.3% Increased Battered and Harried Threshold.			
+Node_1.0	+Magic Armor: Exceptional (scales with level).			
+Node_1.1	+Physical Armor: Exceptional (scales with level).			
+Node_1.2	+9% Maximum Vitality.			
+Node_2				
+Node_2.0	"Unlock basic activation of Abeyance.
+» While you have Abeyance, gain +1 AP Recovery."			
+Node_2.1	Once per round, if you have a free offhand when you perform a Centurion reaction, emulate the effects of Silencing Stare.			
+Node_2.2	"+20% invested Constitution.
+» +20% invested Strength."			
+Node_3				
+Node_3.0	When you activate Abeyance, if your abeyed damage exceeds 40% of your maximum Vitality, lose all stacks of Adaptation to reduce your abeyed damage by 10% per stack lost.			
+Node_3.1	When you perform a Centurion reaction, gain 2 stacks of Adaptation. If you already have this effect: gain one more stack.			
+Node_3.2	If you have the Demolitionist talent and 4 or more stacks of Adaptation when you Source infuse a grenade throw, lose 3 stacks of Adaptation to gain +1 effective Source Infusion for the throw.			
+Node_4				
+Node_4.0	Damage from Abeyance cannot reduce your Vitality below 5%.			
+Node_4.1	If you have 4 or more stacks of Adaptation when you perform a Centurion reaction, lose 3 stacks of Adaptation, and emulate the effects of Chain Lightning.			
+Node_4.2	Whenever you have Source Generation, as long as you have not reached 3 Source points, it is extended indefinitely. Gain 1 Source point for every 2 actions you perform that expend Source.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Inertia: The Arena				
+Triumph only favors those who sacrifice everything.				
+"Requires: 1 Form, 7 Inertia, 5 Life.
+"				
+Node_0	"+2 Finesse.
+» +5 Initiative."			
+Node_0.0	+8% Accuracy.			
+Node_0.1	+13% Damage.			
+Node_0.2	"+3 Initiative.
+» +9% invested Strength."			
+Node_1				
+Node_1.0	"+1 free Celestial reaction per round.
+» +1.2% Increased Battered and Harried Threshold.
+» +2% Physical Resistance."			
+Node_1.1	"+1 free Centurion reaction per round.
+» +1.2% Increased Battered and Harried Threshold.
+» +2% Physical Resistance."			
+Node_1.2	"Unlock basic activation of Defiance.
+» Defiance grants +10% Dodge and +2% Increased Battered and Harried Threshold."			
+Node_2				
+Node_2.0	If you have Defiance at the end of your turn, perform a Centurion reaction on the nearest enemy you can see.			
+Node_2.1	If you have two weapons equipped, Prosperity grants +10% Accuracy and +20% Critical Chance.			
+Node_2.2	"+20% invested Finesse.
+» +20% invested Power."			
+Node_3				
+Node_3.0	Centurion reactions apply up to tier II of Ataxia and Squelched for 1 turn.			
+Node_3.1	If you have Prosperity, your Source Infusions apply at +1 effective infusion for Aspect of the Bull and Heart of Steel; these statuses now grant +10% Finesse and Wits.			
+Node_4				
+Node_4.0	Centurion reactions become 4m Whirlwinds.			
+Node_4.1	While you have Prosperity, gain an Empowered Bouncing Shield skill that costs 2AP and has a 1 turn cooldown.			
+Node_4.2	Wearing a shield no longer decreases your damage gain from Power.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Inertia: Champion				
+The torch that blinds the darkness.				
+"Requires: 2 Form, 8 Inertia, 3 Life.
+"				
+Node_0	"+2 Constitution.
+» +0.7% Increased Battered and Harried Threshold."			
+Node_0.0	+7% Dodge Chance.			
+Node_0.1	+0.8 Movement Speed.			
+Node_0.2	+6% Maximum Physical Armor.			
+Node_1	+3% to all Resistances.			
+Node_1.0	+14% Air Resistance.			
+Node_1.1	+14% Earth Resistance.			
+Node_1.2	+3% Physical Resistance.			
+Node_1.3	+14% Piercing Resistance.			
+Node_1.4	+14% Water Resistance.			
+Node_2				
+Node_2.0	Celestial reactions can be performed on enemies as they become afflicted with Vulnerable III.			
+Node_2.1	Once per round when you activate Ward, apply Encouraged for 3 turns to yourself and allies within 13m, and remove 1 Battered and Harried from them.			
+Node_2.2	"+20% invested Constitution.
+» +20% invested Memory."			
+Node_3				
+Node_3.0	Once per round, Celestial reactions performed on enemies emulate the effects of Pressure Spike and Winter Blast.			
+Node_3.1	Ward grants +3% to elemental maximum resistances and +7% to physical and piercing resistance.			
+Node_4				
+Node_4.0	Celestial reactions apply your Ward to allies and restore 1 AP.			
+Node_4.1	Ward grants +1% to all resistances (per Form, Inertia, and Life).			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Inertia: Fortress				
+The view from the ramparts reveals a landscape of victory.				
+"Requires: 5 Form, 7 Inertia, 1 Life.
+"				
+Node_0	"+2 Strength.
+» +5% Magic Armor restored from Voracity.
+» +5% Physical Armor restored from Voracity."			
+Node_0.0	+7% Dodge Chance.			
+Node_0.1	+0.8 Movement Speed.			
+Node_0.2	+6% Maximum Physical Armor.			
+Node_1				
+Node_1.0	"+Magic Armor: Exceptional (scales with level).
+» +1.3% Increased Battered and Harried Threshold."			
+Node_1.1	"+Physical Armor: Exceptional (scales with level).
+» +1.3% Increased Battered and Harried Threshold."			
+Node_1.2	"+9% Maximum Vitality.
+» +1.3% Increased Battered and Harried Threshold."			
+Node_1.3	"Unlock basic activation of Defiance.
+» Defiance grants an additional 1 AP from Prepared; if you have 7 stacks of Battered or Harried (combined), gain an additional +1 AP, or +2 AP with 12 stacks."			
+Node_2				
+Node_2.0	Once per turn, activate Benevolence when an ally is damaged to 0 Physical or Magical Armor.			
+Node_2.1	Presence grants +0.15% increased Battered and Harried Threshold per Leadership.			
+Node_2.2	"+20% invested Constitution.
+» +20% invested Strength."			
+Node_3				
+Node_3.0	The first time you activate Abeyance each combat, gain Comeback Kid for 5 turns.			
+Node_3.1	Benevolence Restores 5% of your missing Physical or Magical Armor per stack of Battered or Harried removed, respectively.			
+Node_4				
+Node_4.0	When you perform Shields Up, allies within 5m of you gain Abeyance for 1 turn. When an ally would suffer damage from Abeyance, you suffer it instead. Reduce damage suffered from Abeyance by 3.5% per Inertia, up to -45%.			
+Node_4.1	Once source generation begins, it continues until the end of combat. When you remove 4 or more stacks of Battered or Harried from Benevolence, gain Stockpile for 5 turns: recover 1 Source Point the next time you spend Source.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Entropy: Death				
+On the final day only one will remain.				
+"Requires: 2 Force, 8 Entropy, 3 Form.
+"				
+Node_0	"+2 Constitution.
+» +0.5 Movement Speed."			
+Node_0.0	+5% Critical Chance.			
+Node_0.1	+13% Damage.			
+Node_0.2	+5% Lifesteal.			
+Node_1	"+0.7% Increased Battered and Harried Threshold.
+» +1% to Maximum Elemental Resistances."			
+Node_1.0	+1 free Occultist reaction per round.			
+Node_1.1	+1 free Predator reaction per round.			
+Node_1.2	+10% Armors restored from Voracity.			
+Node_1.3	+20% Vitality restored from Voracity.			
+Node_2				
+Node_2.0	Predator reactions can be performed when an ally performs a Violent Strike on an enemy you can see.			
+Node_2.1	Vitality Void activates when a non-summon character dies while in combat with you.			
+Node_2.2	"+20% invested Finesse.
+» +20% invested Power."			
+Node_3				
+Node_3.0	Predator reactions gain +20% Accuracy, and recover 2 AP when an enemy dies during the reaction.			
+Node_3.1	Vitality Void applies Withered for 1 turn. +1m Vitality Void radius. 			
+Node_4				
+Node_4.0	Predator reactions gain +20% Critical Chance. If an enemy dies and leaves a viable corpse during the reaction, create a Bloated Corpse (as per Raise Bloated Corpse) from its corpse.			
+Node_4.1	Vitality Void summons a Boneshaped Skitterer on up to 2 corpses within 5m.			
+Node_4.2	Any non-zero amount of damage you deal applies at least two stacks of Battered or Harried, but you have -65% damage.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Entropy: Decay				
+The hand that grinds mountains to motes of dust.				
+"Requires: 5 Force, 7 Entropy, 1 Form.
+"				
+Node_0	"+2 Memory.
+» +5 Initiative."			
+Node_0.0	+5% Critical Chance.			
+Node_0.1	+13% Damage.			
+Node_0.2	+5% Lifesteal.			
+Node_1	+3% to all Resistances.			
+Node_1.0	+14% Earth Resistance.			
+Node_1.1	+3% Physical Resistance.			
+Node_1.2	+14% Poison Resistance.			
+Node_1.3	+14% Water Resistance.			
+Node_2				
+Node_2.0	When you or your summons explode a corpse, apply Withered for 2 turns to enemies within 3m of the corpse.			
+Node_2.1	When you apply Acid or Bleeding to an enemy, apply 1 stack of Battered as well. When you apply Poisoned or Suffocating to an enemy, apply 1 stack of Harried as well.			
+Node_2.2	"+20% invested Memory.
+» +20% invested Power."			
+Node_3				
+Node_3.0	Paucity grants +2.5% Power and Wits per Entropy, Force, and Form.			
+Node_3.1	Withered applies -2.5% accuracy per Entropy, Force, and Form.			
+Node_4				
+Node_4.0	Paucity grants a 13m aura that applies -1% Accuracy and -1.5% Movement Speed per Leadership to enemies.			
+Node_4.1	Withered applies Corroding for 1 turn to enemies within 2m of its target. Withered applies -10% Constitution (-1% per Entropy, Force, and Form).			
+Node_4.2	Learn Haruspicy: 2 AP, 1 turn cooldown, 13m range, pay 50% of your maximum Vitality to explode an unexploded corpse and gain 1 SP.			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Entropy: Demilich				
+You should not have come to this place.				
+"Requires: 1 Force, 7 Entropy, 5 Form.
+"				
+Node_0	"+2 Power.
+» +7% Damage."			
+Node_0.0	"+3 Initiative.
+» +9% invested Wits."			
+Node_0.1	+6% Maximum Magic Armor.			
+Node_0.2	+14% missing Magic Armor Regen (50% max).			
+Node_0.3	+8% summon Resistances.			
+Node_1	+1.3% Increased Battered and Harried Threshold.			
+Node_1.0	+Magic Armor: Exceptional (scales with level).			
+Node_1.1	+Physical Armor: Exceptional (scales with level).			
+Node_1.2	+9% Maximum Vitality.			
+Node_1.3	Aerotheurge, Geomancer, Hydrosophist, Necromancer, Pyromancer, and Summoning skills activate Finesse's AP recovery effect, but your basic attacks no longer activate this effect.			
+Node_1.4	+2 Maximum Adaptation stacks.			
+Node_2				
+Node_2.0	Adaptation activates when your Paucity would activate, instead of Paucity.			
+Node_2.1	Learn Corpse Mastery: 2 AP, 3 turn cooldown, 13m range, move the corpses of non-boss characters within 4m from a point that you can see to the closest valid points within 3m of you. Teleportation fails if no space large enough for the corpse can be found.			
+Node_2.2	"+20% invested Finesse.
+» +20% invested Strength."			
+Node_2.3	Surfaces and clouds no longer affect your summons.			
+Node_3				
+Node_3.0	If you have 5 or more stacks of Adaptation when you cast Grasp of the Starved, Hail Strike, or Mosquito Swarm, lose 3 stacks of Adaptation to gain +1 effective Source Infusion, even if normally uninfused.			
+Node_3.1	Bane also counts preexisting Battered and Harried stacks on the target for determining its final detonation damage.			
+Node_3.2	"+15% summon Accuracy.
+» +13% summon Critical Chance.
+» +10% summon Lifesteal."			
+Node_4				
+Node_4.0	If you have 5 or more stacks of Adaptation when you cast Blizzard, Scourge, or Winter Blast, lose 3 stacks of Adaptation to gain +1 effective Source Infusion even if normally uninfused.			
+Node_4.1	"When you perform an Occultist reaction, gain 2 stacks of Adaptation.
+» -1 Bane duration."			
+Node_4.2	"Your Vitality is always limited to 5% of its total. As long as you have more than zero of both armors, you cannot die; If you suffer damage that would reduce one of your armors to zero, you die.
+» Gain +65% maximum physical and magic armor.
+» The ""What a Rush"" talent can only ever grant you 1 AP recovery."			
+Node_4.3	"Learn Summon Boneshaped Crusher: 6 AP, 5 turn cooldown; casts Battle Stomp, Black Shroud, Bone Cage, and Corpse Explosion.
+» Instantly summon a Boneshaped Crusher as you enter combat.
+» Boneshaped Crushers do not count against your summon limit, but you may only have one at a time."			
+Node_5	"If you have Demilich's Limited Invulnerability, when an effect would restore your Vitality, restore 50% of that amount to both physical and magic armor instead.
+If you do not have Demilich's Limited Invulnerability, restoring Vitality also restores 15% of that amount to both physical and magic armor."			
